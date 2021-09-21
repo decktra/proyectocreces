@@ -1021,6 +1021,11 @@ select.form-control:not([size]):not([multiple]) {
     text-align: center;
 }
 
+.profile-pic {
+    width: 100px;
+    height: 100px;
+} 
+
 /* :: 9.0 Testimonials Area CSS */
 
 .medica-testimonials-area {
